@@ -1,4 +1,4 @@
-# Meus Links Pessoais
+# Meus Links Pessoais (Descontinuado)
 
 Esse repositório é um portfolio pessoal que contém a foto de perfil do Github e os meios de comunicação do autor. O objetivo do projeto é fornecer uma maneira fácil para os visitantes do perfil conhecerem o autor e entrar em contato com ele através das suas redes sociais.
 
